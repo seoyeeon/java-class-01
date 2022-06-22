@@ -24,6 +24,9 @@ public class HelloJava {	// class는 객체를 만드는 껍데기, HelloJava는
 		
 		// 실수로 package explorer창을 닫았을 때
 		// window > show view > package explorer 열기
+		
+		// 맨 처음 설정으로 돌아가고 싶으면
+		// window > perspective > reset perspective
 
 	}
 
