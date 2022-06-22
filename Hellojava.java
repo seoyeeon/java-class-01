@@ -21,6 +21,9 @@ public class HelloJava {	// class는 객체를 만드는 껍데기, HelloJava는
 		// ctrl + space : 자동완성 키
 		// ex) sysout 후 ctrl + space >> System.out.println();
 		// ctrl + shift + f : 자동정렬 단축키
+		
+		// 실수로 package explorer창을 닫았을 때
+		// window > show view > package explorer 열기
 
 	}
 
